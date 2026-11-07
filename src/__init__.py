@@ -1,0 +1,2 @@
+"""Retail sales dashboard package."""
+
